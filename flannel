@@ -1,1 +1,1 @@
-form quay.io/coreos/flannel:v0.9.1
+from quay.io/coreos/flannel:v0.9.1
