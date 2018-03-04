@@ -34,3 +34,15 @@ from gcr.io/google_containers/kibana:v4.6.1
 from lachlanevenson/k8s-helm:v2.8.1
 from gcr.io/kubernetes-helm/tiller:v2.8.1
 from vault:0.8.1
+
+###
+from gcr.io/google_containers/kubernetes-dashboard-amd64:v1.8.3
+from gcr.io/google_containers/defaultbackend:1.4
+from quay.io/kubernetes-ingress-controller/nginx-ingress-controller:0.11.0
+ 
+###
+from quay.io/external_storage/local-volume-provisioner:v2.0.0
+from registry:2.6
+from gcr.io/google_containers/kube-registry-proxy:0.4
+from busybox:latest
+from
