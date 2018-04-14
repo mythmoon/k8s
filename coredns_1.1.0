@@ -1,1 +1,1 @@
-from docker.io/cilium/cilium:v1.0.0-rc4
+from docker.io/coredns/coredns:1.1.0
